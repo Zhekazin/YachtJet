@@ -1,0 +1,40 @@
+:root {
+  --main-font: "Inter", sans-serif;
+  --main-color: #fbfbfb;
+  --accent-color: white;
+}
+
+body {
+  font-family: var(--main-font);
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  color: var(--main-color);
+  background-color: #0e1823;
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,44 @@
+.yahtjet {
+  border-radius: 24px;
+  max-width: 1340px;
+  background: #fbfbfb;
+}
+
+.title-yahtjet {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #1b414b;
+  max-width: 537px;
+  text-align: start;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.subtitle-yahtjet {
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #1b414b;
+  max-width: 404px;
+}
+
+.yahtjet-text {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #040306;
+  opacity: 0.4;
+  max-width: 404px;
+}
+
+.subtitle-yahtjet {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}

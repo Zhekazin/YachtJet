@@ -1,0 +1,47 @@
+.heder-menu-social {
+  border: 1px solid #fbfbfb;
+  border-radius: 8px;
+  width: 1240px;
+  height: 48px;
+  background: #fbfbfb;
+  text-align: center;
+  margin-top: 32px;
+}
+
+.logo {
+  display: flex;
+  width: 74px;
+  height: 24px;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.03em;
+  color: #1b414b;
+  margin-left: 30px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-right: 375px;
+}
+
+.header-nav {
+  border: 1px solid #fbfbfb;
+  border-radius: 8px;
+  width: 1240px;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+  background: #fbfbfb;
+}
+
+.social {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 8px;
+  width: 88px;
+  height: 24px;
+}
+
+.social-link {
+  background-color: #1b414b;
+}

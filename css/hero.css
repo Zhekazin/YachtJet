@@ -5,8 +5,8 @@
   letter-spacing: -0.02em;
   text-align: center;
   color: #fbfbfb;
-  margin-left: 219px;
-  margin-right: 220px;
+  margin: 235px 220px 24px 219px;
+  min-width: 1001px;
 }
 
 .hero-container {

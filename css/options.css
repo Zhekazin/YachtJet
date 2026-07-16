@@ -1,8 +1,33 @@
 .block-choose {
-  max-width: 768px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 32px;
+  max-width: 1340px;
 }
 
 .photo-choose {
   max-width: 540px;
   border-radius: 24px;
+}
+
+.options {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 32px;
+}
+
+.box-for-text {
+  border-radius: 24px;
+  max-width: 768px;
+  height: 424px;
+  background: #1b414b;
+}
+
+.part-text {
+  max-width: 318px;
+  height: 100px;
 }

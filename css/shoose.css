@@ -49,6 +49,7 @@
   margin: 32px 0px;
   margin-right: 32px;
 }
+
 .card-text-maine {
   font-weight: 500;
   font-size: 16px;
@@ -57,6 +58,7 @@
   text-transform: uppercase;
   color: #1b414b;
 }
+
 .card-text-second {
   font-weight: 400;
   font-size: 13px;
@@ -66,6 +68,7 @@
   color: #040306;
   opacity: 0.4;
 }
+
 .card-text-menu {
   display: flex;
   align-items: flex-start;
@@ -82,6 +85,7 @@
   text-transform: uppercase;
   color: #040306;
 }
+
 .card-text-price {
   display: flex;
   align-items: flex-start;
@@ -112,6 +116,7 @@
   font-size: 18px;
   line-height: 1.1;
   letter-spacing: -0.02em;
-  color: #fbfbfb;
   margin: 50px auto 150px;
+  background: #0e1823;
+  color: #fbfbfb;
 }
